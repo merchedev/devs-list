@@ -36,7 +36,7 @@ Jorge Baumann       | [![twitter]](https://twitter.com/baumannzone)     |       
 Manz                | [![twitter]](https://twitter.com/Manz)            |[![youtube]](https://www.youtube.com/c/ManzDev)        |[![twitch]](https://www.twitch.tv/manzdev)             | ![es] 
 Midudev             | [![twitter]](https://twitter.com/midudev)         |[![youtube]](https://www.youtube.com/c/midudev)        |[![twitch]](https://www.twitch.tv/midudev)             | ![es] 
 Miriam González     | [![twitter]](https://twitter.com/miriamgonp)      |[![youtube]](https://www.youtube.com/c/midudev)        |[![twitch]](https://www.twitch.tv/miriamgonp)          | ![es]
-Thamara Gerig       | [![twitter]](https://twitter.com/gerig_thamara)   |                                                       |                                                       | ![en]
+Thamara Gerig       | [![twitter]](https://twitter.com/gerig_thamara)   |                                                       |                                                       | ![es]
 
 # SEO
 
