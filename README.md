@@ -20,7 +20,7 @@ Juanjo (kastwey)        | [![twitter]](https://twitter.com/kastwey)         |   
 Olga Carreras           | [![twitter]](https://twitter.com/olgacarreras)    |         |        |                                            | ![es]
 Sara Rodríguez          | [![twitter]](https://twitter.com/sara_irc)        |         |        |                                            | ![es]
 Sergio Luján Mora       | [![twitter]](https://twitter.com/sergiolujanmora) |         |        |                                            | ![es]
-Vicent Sanchis          | [![twitter]](https://twitter.com/visanju)         |         |        |                                            | ![en]
+Vicent Sanchis          | [![twitter]](https://twitter.com/visanju)         |         |        |                                            | ![es]
 
 # Desarrollo Web/Front End (General)
 
@@ -36,7 +36,7 @@ Jorge Baumann       | [![twitter]](https://twitter.com/baumannzone)     |       
 Manz                | [![twitter]](https://twitter.com/Manz)            |[![youtube]](https://www.youtube.com/c/ManzDev)        |[![twitch]](https://www.twitch.tv/manzdev)             |   | ![es]
 Midudev             | [![twitter]](https://twitter.com/midudev)         |[![youtube]](https://www.youtube.com/c/midudev)        |[![twitch]](https://www.twitch.tv/midudev)             |   | ![es]
 Miriam González     | [![twitter]](https://twitter.com/miriamgonp)      |[![youtube]](https://www.youtube.com/c/midudev)        |[![twitch]](https://www.twitch.tv/miriamgonp)          |   | ![es]
-Thamara Gerig       | [![twitter]](https://twitter.com/gerig_thamara)   |                                                       |                                                       |   | ![en]
+Thamara Gerig       | [![twitter]](https://twitter.com/gerig_thamara)   |                                                       |                                                       |   | ![es]
 
 # SEO
 
