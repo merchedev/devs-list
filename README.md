@@ -19,7 +19,7 @@ Juanjo (kastwey)        | [![twitter]](https://twitter.com/kastwey)         |   
 Olga Carreras           | [![twitter]](https://twitter.com/olgacarreras)    |         |        | ![es]
 Sara Rodríguez          | [![twitter]](https://twitter.com/sara_irc)        |         |        | ![es]
 Sergio Luján Mora       | [![twitter]](https://twitter.com/sergiolujanmora) |         |        | ![es]
-Vicent Sanchis          | [![twitter]](https://twitter.com/visanju)         |         |        | ![en]
+Vicent Sanchis          | [![twitter]](https://twitter.com/visanju)         |         |        | ![es]
 Xorx                    | [![twitter]](https://twitter.com/iXorx)           |         |        | ![es]
 
 # Desarrollo Web/Front End (General)
