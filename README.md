@@ -14,13 +14,13 @@
 Adrián Bolonio          | [![twitter]](https://twitter.com/bolonio)         |         |        |                                            | ![en] ![es]
 Alberto Pedrero         | [![twitter]](https://twitter.com/apedreroes)      |         |        |                                            | ![es]
 Alena Nikolaeva         | [![twitter]](https://twitter.com/alenanik11)      |         |        |                                            | ![en]
-Jordi Turull            | [![twitter]](https://twitter.com/iXorx)           |         |        | [![linkedin]](https://twitter.com/iXorx)   | ![en] ![es]
+Jordi Turull            | [![twitter]](https://twitter.com/iXorx)           |         |        | [![linkedin]](https://www.linkedin.com/in/jorditurull/)   | ![en] ![es] ![ca]
 José Manuel Delicado    | [![twitter]](https://twitter.com/jmdaweb)         |         |        |                                            | ![es]
 Juanjo (kastwey)        | [![twitter]](https://twitter.com/kastwey)         |         |        |                                            | ![es]
 Olga Carreras           | [![twitter]](https://twitter.com/olgacarreras)    |         |        |                                            | ![es]
 Sara Rodríguez          | [![twitter]](https://twitter.com/sara_irc)        |         |        |                                            | ![es]
 Sergio Luján Mora       | [![twitter]](https://twitter.com/sergiolujanmora) |         |        |                                            | ![es]
-Vicent Sanchis          | [![twitter]](https://twitter.com/visanju)         |         |        |                                            | ![es]
+Vicent Sanchis          | [![twitter]](https://twitter.com/visanju)         |         |        |                                            | ![es] ![ca]
 
 # Desarrollo Web/Front End (General)
 
@@ -70,3 +70,5 @@ Carmen Ansio           | [![twitter]](https://twitter.com/carmenansio)     | | [
 [en]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/en-flag.png?alt=media&token=d2fb3718-7802-4b81-ac03-e94a8d9bed4e "English"
 
 [es]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/es-flag.png?alt=media&token=019f63c7-4c64-4f2a-8543-57c93275cd8f "Español"
+
+[ca]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/3253480-catalonia-icon-flag_106770.png?alt=media&token=48d1d54e-ee81-4846-ad19-bd6d3a183fef "Català"
