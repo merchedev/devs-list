@@ -32,11 +32,15 @@ Carlos Azaustre     | [![twitter]](https://twitter.com/carlosazaustre)  |[![yout
 Concha Asensio      | [![twitter]](https://twitter.com/conchaasensio)   |                                                       |                                                       |   | ![en]
 Desarrollo Útil     | [![twitter]](https://twitter.com/desarrollo_util) |[![youtube]](https://www.youtube.com/desarrolloutil)   |[![twitch]](https://www.twitch.tv/desarrolloutil)      |   | ![es]
 Eduardo Fierro Pro  | [![twitter]](https://twitter.com/edfierropro)     |[![youtube]](https://www.youtube.com/eduardofierropro) |[![twitch]](https://www.twitch.tv/eduardofierropro)    |   | ![es]
+Goncy Pozzo | [![twitter]](https://twitter.com/Goncy)     |[![youtube]](https://www.youtube.com/c/GonzaloPozzo) |[![twitch]](https://twitch.gonzalopozzo.com)    |   | ![es]
 Jorge Baumann       | [![twitter]](https://twitter.com/baumannzone)     |                                                       |                                                       |   | ![es]
+Makigas                | [![twitter]](https://twitter.com/makigas)            |[![youtube]](https://www.youtube.com/c/makigas)        |[![twitch]](https://www.twitch.tv/danirod_)             |   | ![es]
 Manz                | [![twitter]](https://twitter.com/Manz)            |[![youtube]](https://www.youtube.com/c/ManzDev)        |[![twitch]](https://www.twitch.tv/manzdev)             |   | ![es]
 Midudev             | [![twitter]](https://twitter.com/midudev)         |[![youtube]](https://www.youtube.com/c/midudev)        |[![twitch]](https://www.twitch.tv/midudev)             |   | ![es]
 Miriam González     | [![twitter]](https://twitter.com/miriamgonp)      |[![youtube]](https://www.youtube.com/c/midudev)        |[![twitch]](https://www.twitch.tv/miriamgonp)          |   | ![es]
+Programación en Español | [![twitter]](https://twitter.com/prog_es)     |[![youtube]](https://www.youtube.com/c/Programaci%C3%B3nenespa%C3%B1ol) |[![twitch]](https://www.twitch.tv/programacion_en_esp)    |   | ![es]
 Thamara Gerig       | [![twitter]](https://twitter.com/gerig_thamara)   |                                                       |                                                       |   | ![es]
+Vamoacodear | [![twitter]](https://twitter.com/vamoacodear)     |[![youtube]](https://www.youtube.com/c/vamoacodear) |[![twitch]](https://www.twitch.tv/vamoacodear)    |   | ![es]
 
 # SEO
 
