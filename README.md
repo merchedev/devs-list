@@ -11,36 +11,44 @@
 
 |  Nombre               |  Twitter                                          | Youtube | Twitch | Linkedin                                   | Idioma     |
 |-----------------------|---------------------------------------------------|---------|--------|--------------------------------------------|------------|
-Adrián Bolonio          | [![twitter]](https://twitter.com/bolonio)         |         |        |                                            | ![en] ![es]
+Adrián Bolonio          | [![twitter]](https://twitter.com/bolonio)         |         |        |                            [![linkedin]](https://www.linkedin.com/in/adrianbolonio/)              | ![en] ![es]
 Alberto Pedrero         | [![twitter]](https://twitter.com/apedreroes)      |         |        |                                            | ![es]
-Alena Nikolaeva         | [![twitter]](https://twitter.com/alenanik11)      |         |        |                                            | ![en]
+Alena Nikolaeva         | [![twitter]](https://twitter.com/alenanik11)      |         |        |                 [![linkedin]](https://www.linkedin.com/in/alenanikolaeva/)                            | ![en]
 Jordi Turull            | [![twitter]](https://twitter.com/iXorx)           |         |        | [![linkedin]](https://www.linkedin.com/in/jorditurull/)   | ![en] ![es] ![ca]
 José Manuel Delicado    | [![twitter]](https://twitter.com/jmdaweb)         |         |        |                                            | ![es]
 Juanjo (kastwey)        | [![twitter]](https://twitter.com/kastwey)         |         |        |                                            | ![es]
-Olga Carreras           | [![twitter]](https://twitter.com/olgacarreras)    |         |        |                                            | ![es]
-Sara Rodríguez          | [![twitter]](https://twitter.com/sara_irc)        |         |        |                                            | ![es]
+Olga Carreras           | [![twitter]](https://twitter.com/olgacarreras)    |     [![youtube]](https://www.youtube.com/user/UsableyAccesible)    |        |                    [![linkedin]](https://www.linkedin.com/in/olgacarreras/)                        | ![es]
+Sara Rodríguez          | [![twitter]](https://twitter.com/sara_irc)        |         |        |                      [![linkedin]](https://www.linkedin.com/in/sararodriguezcontreras/)                      | ![es]
 Sergio Luján Mora       | [![twitter]](https://twitter.com/sergiolujanmora) |         |        |                                            | ![es]
-Vicent Sanchis          | [![twitter]](https://twitter.com/visanju)         |         |        |                                            | ![es] ![ca]
+Vicent Sanchis          | [![twitter]](https://twitter.com/visanju)         |         |        |                     [![linkedin]](https://www.linkedin.com/in/vicent-sanchis-jurado-151b9142/)                       | ![es] ![ca]
 
 # Desarrollo Web/Front End (General)
 
 |  Nombre           |  Twitter                                          | Youtube | Twitch | Linkedin | Idioma     |
 |-------------------|---------------------------------------------------|---------|--------|----------|------------|
-Alba Silbente       | [![twitter]](https://twitter.com/dawntraoz)       |                                                       |                                                       |   | ![en]
+Alba Silvente       | [![twitter]](https://twitter.com/dawntraoz)       |                                                       |                                                       | [![linkedin]](https://www.linkedin.com/in/dawntraoz/)  | ![en]
+Adrián Ferrera | [![twitter]](https://twitter.com/AdrianFerrera91) | | | [![linkedin]](https://www.linkedin.com/in/afergon/) | ![es]
 Ari Reinventada     | [![twitter]](https://twitter.com/Ari_Reinventada) |[![youtube]](https://www.youtube.com/ari_reinventada)  |[![twitch]](https://www.twitch.tv/ari_reinventada)     |   | ![es]
 Carlos Azaustre     | [![twitter]](https://twitter.com/carlosazaustre)  |[![youtube]](https://www.youtube.com/carlosazaustre)   |[![twitch]](https://www.twitch.tv/carlosazaustre)      |   | ![es]
-Concha Asensio      | [![twitter]](https://twitter.com/conchaasensio)   |                                                       |                                                       |   | ![en]
+Coding Is Caring | [![twitter]](https://twitter.com/codingiscaring) | [![youtube]](https://www.youtube.com/channel/UCWpFtDUVvti2NhnFW-j2w8w) | [![twitch]](https://www.twitch.tv/codingiscaring) | | ![es]
+Coding Potions | [![twitter]](https://twitter.com/CodingPotions) | | | | ![es]
+Concha Asensio      | [![twitter]](https://twitter.com/conchaasensio)   |                                                       |                                                       | [![linkedin]](https://www.linkedin.com/in/conchaasensio/)  | ![en]
 Desarrollo Útil     | [![twitter]](https://twitter.com/desarrollo_util) |[![youtube]](https://www.youtube.com/desarrolloutil)   |[![twitch]](https://www.twitch.tv/desarrolloutil)      |   | ![es]
-Eduardo Fierro Pro  | [![twitter]](https://twitter.com/edfierropro)     |[![youtube]](https://www.youtube.com/eduardofierropro) |[![twitch]](https://www.twitch.tv/eduardofierropro)    |   | ![es]
+Eduardo Fierro Pro  | [![twitter]](https://twitter.com/edfierropro)     |[![youtube]](https://www.youtube.com/eduardofierropro) |[![twitch]](https://www.twitch.tv/eduardofierropro)    | [![linkedin]](https://www.linkedin.com/in/eduardofierropro/)  | ![es]
 Goncy Pozzo | [![twitter]](https://twitter.com/Goncy)     |[![youtube]](https://www.youtube.com/c/GonzaloPozzo) |[![twitch]](https://twitch.gonzalopozzo.com)    |   | ![es]
-Jorge Baumann       | [![twitter]](https://twitter.com/baumannzone)     |                                                       |                                                       |   | ![es]
+Horacio Herrera | [![twitter]](https://twitter.com/hhg2288) | | | | ![es] ![en]
+Iván López | [![twitter]](https://twitter.com/ivanlhz) | | | | ![es]
+Jorge Baumann       | [![twitter]](https://twitter.com/baumannzone)     |    [![youtube]](https://www.youtube.com/RambitoJS)                                                   |  [![twitch]](https://www.twitch.tv/baumannzone)                                                     |[![linkeidn]](https://www.linkedin.com/in/baumannzone/)   | ![es]
+Lupita Code | [![twitter]](https://twitter.com/lupitacode)|[![youtube]](https://www.youtube.com/c/LupitaCode)| | | ![es]
 Makigas                | [![twitter]](https://twitter.com/makigas)            |[![youtube]](https://www.youtube.com/c/makigas)        |[![twitch]](https://www.twitch.tv/danirod_)             |   | ![es]
 Manz                | [![twitter]](https://twitter.com/Manz)            |[![youtube]](https://www.youtube.com/c/ManzDev)        |[![twitch]](https://www.twitch.tv/manzdev)             |   | ![es]
 Midudev             | [![twitter]](https://twitter.com/midudev)         |[![youtube]](https://www.youtube.com/c/midudev)        |[![twitch]](https://www.twitch.tv/midudev)             |   | ![es]
-Miriam González     | [![twitter]](https://twitter.com/miriamgonp)      |[![youtube]](https://www.youtube.com/c/midudev)        |[![twitch]](https://www.twitch.tv/miriamgonp)          |   | ![es]
+Miriam González     | [![twitter]](https://twitter.com/miriamgonp)      |       |[![twitch]](https://www.twitch.tv/miriamgonp)          | [![linkedin]](https://www.linkedin.com/in/miriamgonp/)  | ![es]
 Programación en Español | [![twitter]](https://twitter.com/prog_es)     |[![youtube]](https://www.youtube.com/c/Programaci%C3%B3nenespa%C3%B1ol) |[![twitch]](https://www.twitch.tv/programacion_en_esp)    |   | ![es]
+Sara Lissette | [![twitter]](https://twitter.com/LissetteIbnz) | | | [![linkedin]](https://www.linkedin.com/in/lissetteibnz) | ![es]
 Thamara Gerig       | [![twitter]](https://twitter.com/gerig_thamara)   |                                                       |                                                       |   | ![es]
 Vamoacodear | [![twitter]](https://twitter.com/vamoacodear)     |[![youtube]](https://www.youtube.com/c/vamoacodear) |[![twitch]](https://www.twitch.tv/vamoacodear)    |   | ![es]
+Yodra López | [![twitter]](https://twitter.com/yodralopez) | | | [![linkedin]](https://www.linkedin.com/in/yodralopez)| ![es]
 
 # SEO
 
@@ -53,7 +61,7 @@ Javier Martínez Seco    | [![twitter]](https://twitter.com/JavierMrt)       |  
 
 |  Nombre              |  Twitter                                          | Youtube | Twitch | Linkedin | Idioma     |
 |----------------------|---------------------------------------------------|---------|--------|----------|------------|
-Carmen Ansio           | [![twitter]](https://twitter.com/carmenansio)     | | [![twitch]](https://www.twitch.tv/thecosmicred) |  | ![es]
+Carmen Ansio           | [![twitter]](https://twitter.com/carmenansio)     | | [![twitch]](https://www.twitch.tv/thecosmicred) | [![linkedin]](https://www.linkedin.com/in/carmenansio) | ![es]
 
 
 # Web performance
