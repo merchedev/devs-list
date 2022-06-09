@@ -39,7 +39,7 @@ Eduardo Fierro Pro  | [![twitter]](https://twitter.com/edfierropro)     |[![yout
 Goncy Pozzo | [![twitter]](https://twitter.com/Goncy)     |[![youtube]](https://www.youtube.com/c/GonzaloPozzo) |[![twitch]](https://twitch.gonzalopozzo.com)    |   | ![es]
 Horacio Herrera | [![twitter]](https://twitter.com/hhg2288) | | | | ![es] ![en]
 Iván López | [![twitter]](https://twitter.com/ivanlhz) | | | | ![es]
-Jorge Baumann       | [![twitter]](https://twitter.com/baumannzone)     |    [![youtube]](https://www.youtube.com/RambitoJS)                                                   |  [![twitch]](https://www.twitch.tv/baumannzone)                                                     |[![linkeidn]](https://www.linkedin.com/in/baumannzone/)   | ![es]
+Jorge Baumann       | [![twitter]](https://twitter.com/baumannzone)     |    [![youtube]](https://www.youtube.com/RambitoJS)                                                   |  [![twitch]](https://www.twitch.tv/baumannzone)                                                     |[![linkedin]](https://www.linkedin.com/in/baumannzone/)   | ![es]
 Lupita Code | [![twitter]](https://twitter.com/lupitacode)|[![youtube]](https://www.youtube.com/c/LupitaCode)| | | ![es]
 Makigas                | [![twitter]](https://twitter.com/makigas)            |[![youtube]](https://www.youtube.com/c/makigas)        |[![twitch]](https://www.twitch.tv/danirod_)             |   | ![es]
 Manz                | [![twitter]](https://twitter.com/Manz)            |[![youtube]](https://www.youtube.com/c/ManzDev)        |[![twitch]](https://www.twitch.tv/manzdev)             |   | ![es]
