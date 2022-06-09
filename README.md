@@ -27,30 +27,51 @@ Vicent Sanchis          | [![twitter]](https://twitter.com/visanju)         |   
 |  Nombre           |  Twitter                                          | Youtube | Twitch | Linkedin | Idioma     |
 |-------------------|---------------------------------------------------|---------|--------|----------|------------|
 Alba Silvente       | [![twitter]](https://twitter.com/dawntraoz)       |                                                       |                                                       | [![linkedin]](https://www.linkedin.com/in/dawntraoz/)  | ![en]
-Adrián Ferrera | [![twitter]](https://twitter.com/AdrianFerrera91) | | | [![linkedin]](https://www.linkedin.com/in/afergon/) | ![es]
+Adrián Ferrera      | [![twitter]](https://twitter.com/AdrianFerrera91) | | | [![linkedin]](https://www.linkedin.com/in/afergon/) | ![es]
 Ari Reinventada     | [![twitter]](https://twitter.com/Ari_Reinventada) |[![youtube]](https://www.youtube.com/ari_reinventada)  |[![twitch]](https://www.twitch.tv/ari_reinventada)     |   | ![es]
+AristiDevs          | [![twitter]](https://twitter.com/AristiDevs)      | [![youtube]](https://youtube.com/c/aristidevs) | [![twitch]](https://www.twitch.tv/aristidevs) |  | ![es]
 Carlos Azaustre     | [![twitter]](https://twitter.com/carlosazaustre)  |[![youtube]](https://www.youtube.com/carlosazaustre)   |[![twitch]](https://www.twitch.tv/carlosazaustre)      |   | ![es]
-Codewithaxi       | [![twitter]](https://twitter.com/codewithaxi) | | [![twitch]](https://www.twitch.tv/codewithaxi) | | ![es]
-Coding Is Caring | [![twitter]](https://twitter.com/codingiscaring) | [![youtube]](https://www.youtube.com/channel/UCWpFtDUVvti2NhnFW-j2w8w) | [![twitch]](https://www.twitch.tv/codingiscaring) | | ![es]
-Coding Potions | [![twitter]](https://twitter.com/CodingPotions) | | | | ![es]
+Codewithaxi         | [![twitter]](https://twitter.com/codewithaxi) | | [![twitch]](https://www.twitch.tv/codewithaxi) | | ![es]
+Coding Is Caring    | [![twitter]](https://twitter.com/codingiscaring) | [![youtube]](https://www.youtube.com/channel/UCWpFtDUVvti2NhnFW-j2w8w) | [![twitch]](https://www.twitch.tv/codingiscaring) | | ![es]
+Coding Potions      | [![twitter]](https://twitter.com/CodingPotions) | | | | ![es]
 Concha Asensio      | [![twitter]](https://twitter.com/conchaasensio)   |                                                       |                                                       | [![linkedin]](https://www.linkedin.com/in/conchaasensio/)  | ![en]
 Desarrollo Útil     | [![twitter]](https://twitter.com/desarrollo_util) |[![youtube]](https://www.youtube.com/desarrolloutil)   |[![twitch]](https://www.twitch.tv/desarrolloutil)      |   | ![es]
+Dorian Desings      | [![twitter]](https://twitter.com/DorianDesings)   | [![youtube]](https://www.youtube.com/channel/UCzuwt7Pi_VB8cP5q5UE4u-A) | [![twitch]](https://www.twitch.tv/doriandesings) | | ![es]
 Eduardo Fierro Pro  | [![twitter]](https://twitter.com/edfierropro)     |[![youtube]](https://www.youtube.com/eduardofierropro) |[![twitch]](https://www.twitch.tv/eduardofierropro)    | [![linkedin]](https://www.linkedin.com/in/eduardofierropro/)  | ![es]
-Goncy Pozzo | [![twitter]](https://twitter.com/Goncy)     |[![youtube]](https://www.youtube.com/c/GonzaloPozzo) |[![twitch]](https://twitch.gonzalopozzo.com)    |   | ![es]
-Horacio Herrera | [![twitter]](https://twitter.com/hhg2288) | | | | ![es] ![en]
-Iván López | [![twitter]](https://twitter.com/ivanlhz) | | | | ![es]
+Goncy Pozzo         | [![twitter]](https://twitter.com/Goncy)     |[![youtube]](https://www.youtube.com/c/GonzaloPozzo) |[![twitch]](https://twitch.gonzalopozzo.com)    |   | ![es]
+Horacio Herrera     | [![twitter]](https://twitter.com/hhg2288) | | | | ![es] ![en]
+Iván López          | [![twitter]](https://twitter.com/ivanlhz) | | | | ![es]
 Jorge Baumann       | [![twitter]](https://twitter.com/baumannzone)     |    [![youtube]](https://www.youtube.com/RambitoJS)                                                   |  [![twitch]](https://www.twitch.tv/baumannzone)                                                     |[![linkedin]](https://www.linkedin.com/in/baumannzone/)   | ![es]
-Lupita Code | [![twitter]](https://twitter.com/lupitacode)|[![youtube]](https://www.youtube.com/c/LupitaCode)| | | ![es]
-Makigas                | [![twitter]](https://twitter.com/makigas)            |[![youtube]](https://www.youtube.com/c/makigas)        |[![twitch]](https://www.twitch.tv/danirod_)             |   | ![es]
-Manz                | [![twitter]](https://twitter.com/Manz)            |[![youtube]](https://www.youtube.com/c/ManzDev)        |[![twitch]](https://www.twitch.tv/manzdev)             |   | ![es]
+Lupita Code         | [![twitter]](https://twitter.com/lupitacode)|[![youtube]](https://www.youtube.com/c/LupitaCode)| | | ![es]
+Makigas             | [![twitter]](https://twitter.com/makigas)            |[![youtube]](https://www.youtube.com/c/makigas)        |[![twitch]](https://www.twitch.tv/danirod_)             |   | ![es]
+Manz                | [![twitter]](https://twitter.com/Manz)            |[![youtube]](https://www.youtube.com/c/ManzDev)        |[![twitch]](https://www.twitch.tv/manzdev)             |  [![linkedin]](https://www.linkedin.com/in/joseromanhdez/)  | ![es]
+MoureDev            | [![twitter]](https://twitter.com/mouredev)        | [![youtube]](https://youtube.com/mouredevapps) | [![twitch]](https://www.twitch.tv/mouredev) |  | ![es]
 Midudev             | [![twitter]](https://twitter.com/midudev)         |[![youtube]](https://www.youtube.com/c/midudev)        |[![twitch]](https://www.twitch.tv/midudev)             |   | ![es]
 Miriam González     | [![twitter]](https://twitter.com/miriamgonp)      |       |[![twitch]](https://www.twitch.tv/miriamgonp)          | [![linkedin]](https://www.linkedin.com/in/miriamgonp/)  | ![es]
 Neryad              | [![twitter]](https://twitter.com/NeryadG)      | [![youtube]](https://www.youtube.com/channel/UC3s_1wVc_rzBgbmmW2w_FAw) |[![twitch]](https://www.twitch.tv/neryad)          | | ![es]
+PadawansTrainer     |                                                 | [![youtube]](https://youtube.com/grodriguezDW) | [![twitch]](https://www.twitch.tv/padawanstrainer) | | ![es]
 Programación en Español | [![twitter]](https://twitter.com/prog_es)     |[![youtube]](https://www.youtube.com/c/Programaci%C3%B3nenespa%C3%B1ol) |[![twitch]](https://www.twitch.tv/programacion_en_esp)    |   | ![es]
-Sara Lissette | [![twitter]](https://twitter.com/LissetteIbnz) | | | [![linkedin]](https://www.linkedin.com/in/lissetteibnz) | ![es]
+Sara Lissette       | [![twitter]](https://twitter.com/LissetteIbnz) | | | [![linkedin]](https://www.linkedin.com/in/lissetteibnz) | ![es]
 Thamara Gerig       | [![twitter]](https://twitter.com/gerig_thamara)   |                                                       |                                                       |   | ![es]
-Vamoacodear | [![twitter]](https://twitter.com/vamoacodear)     |[![youtube]](https://www.youtube.com/c/vamoacodear) |[![twitch]](https://www.twitch.tv/vamoacodear)    |   | ![es]
-Yodra López | [![twitter]](https://twitter.com/yodralopez) | | | [![linkedin]](https://www.linkedin.com/in/yodralopez)| ![es]
+TheRegext           |  | [![youtube]](https://www.youtube.com/channel/UCnTJJavD9_s9H7uBUJLrj8g) | [![twitch]](https://www.twitch.tv/theregext) | | ![es]
+Vamoacodear         | [![twitter]](https://twitter.com/vamoacodear)     |[![youtube]](https://www.youtube.com/c/vamoacodear) |[![twitch]](https://www.twitch.tv/vamoacodear)    |   | ![es]
+Yodra López         | [![twitter]](https://twitter.com/yodralopez) | | | [![linkedin]](https://www.linkedin.com/in/yodralopez)| ![es]
+
+# Desarrollo de videojuegos
+
+|  Nombre           |  Twitter                                          | Youtube | Twitch | Linkedin | Idioma     |
+|-------------------|---------------------------------------------------|---------|--------|----------|------------|
+Alva Majo           | [![twitter]](https://twitter.com/5ro4) | [![youtube]](https://www.youtube.com/user/5ro4) | [![twitch]](https://www.twitch.tv/5ro4) | | ![es]
+Gius Caminiti       | [![twitter]](https://twitter.com/GiusCaminiti) | [![youtube]](https://www.youtube.com/channel/UCDwxoXM_3vaXxXzZylJQJHg/) | [![twitch]](https://www.twitch.tv/giuscaminiti) |  | ![es]
+Guinxu              | [![twitter]](https://twitter.com/guinxu) | [![youtube]](https://youtube.com/c/guinxu) | [![twitch]](https://www.twitch.tv/guinxu) | | ![es]
+Rafa Lagoon         | [![twitter]](http://twitter.com/rafalagoon) | [![youtube]](http://youtube.com/rafalagoon) | [![twitch]](https://www.twitch.tv/rafalagoon) | | ![es]
+RothioTome          | [![twitter]](https://twitter.com/RothioTome) | | [![twitch]](https://www.twitch.tv/rothiotome) | | ![es]
+
+# Hacking / Seguridad informática
+
+|  Nombre               |  Twitter                                          | Youtube | Twitch | Linkedin | Idioma     |
+|-----------------------|---------------------------------------------------|---------|--------|----------|------------|
+S4vitaar    | [![twitter]](https://twitter.com/s4vitar) | [![youtube]](https://youtube.com/s4vitar) | [![twitch]](https://www.twitch.tv/s4vitaar) | [![linkedin]](https://www.linkedin.com/in/s4vitar) | ![es]
 
 # SEO
 
