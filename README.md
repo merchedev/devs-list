@@ -43,6 +43,7 @@ Jorge Baumann       | [![twitter]](https://twitter.com/baumannzone)     |    [![
 Lupita Code | [![twitter]](https://twitter.com/lupitacode)|[![youtube]](https://www.youtube.com/c/LupitaCode)| | | ![es]
 Makigas                | [![twitter]](https://twitter.com/makigas)            |[![youtube]](https://www.youtube.com/c/makigas)        |[![twitch]](https://www.twitch.tv/danirod_)             |   | ![es]
 Manz                | [![twitter]](https://twitter.com/Manz)            |[![youtube]](https://www.youtube.com/c/ManzDev)        |[![twitch]](https://www.twitch.tv/manzdev)             |   | ![es]
+Maquetando con Chuck!                | [![twitter]](https://twitter.com/oneeyedman)            |[![youtube]](https://www.youtube.com/channel/UCN45ASD_OiJgmH8CW_4T8wA)        |[![twitch]](https://www.twitch.tv/guanaiman)             |   | ![es]
 Midudev             | [![twitter]](https://twitter.com/midudev)         |[![youtube]](https://www.youtube.com/c/midudev)        |[![twitch]](https://www.twitch.tv/midudev)             |   | ![es]
 Miriam González     | [![twitter]](https://twitter.com/miriamgonp)      |       |[![twitch]](https://www.twitch.tv/miriamgonp)          | [![linkedin]](https://www.linkedin.com/in/miriamgonp/)  | ![es]
 Neryad              | [![twitter]](https://twitter.com/NeryadG)      | [![youtube]](https://www.youtube.com/channel/UC3s_1wVc_rzBgbmmW2w_FAw) |[![twitch]](https://www.twitch.tv/neryad)          | | ![es]
