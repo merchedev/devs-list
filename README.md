@@ -45,6 +45,7 @@ Jorge Baumann       | [![twitter]](https://twitter.com/baumannzone)     |    [![
 Lupita Code         | [![twitter]](https://twitter.com/lupitacode)|[![youtube]](https://www.youtube.com/c/LupitaCode)| | | ![es]
 Makigas             | [![twitter]](https://twitter.com/makigas)            |[![youtube]](https://www.youtube.com/c/makigas)        |[![twitch]](https://www.twitch.tv/danirod_)             |   | ![es]
 Manz                | [![twitter]](https://twitter.com/Manz)            |[![youtube]](https://www.youtube.com/c/ManzDev)        |[![twitch]](https://www.twitch.tv/manzdev)             |  [![linkedin]](https://www.linkedin.com/in/joseromanhdez/)  | ![es]
+Maquetando con Chuck!                | [![twitter]](https://twitter.com/oneeyedman)            |[![youtube]](https://www.youtube.com/channel/UCN45ASD_OiJgmH8CW_4T8wA)        |[![twitch]](https://www.twitch.tv/guanaiman)             |   | ![es]
 MoureDev            | [![twitter]](https://twitter.com/mouredev)        | [![youtube]](https://youtube.com/mouredevapps) | [![twitch]](https://www.twitch.tv/mouredev) |  | ![es]
 Midudev             | [![twitter]](https://twitter.com/midudev)         |[![youtube]](https://www.youtube.com/c/midudev)        |[![twitch]](https://www.twitch.tv/midudev)             |   | ![es]
 Miriam González     | [![twitter]](https://twitter.com/miriamgonp)      |       |[![twitch]](https://www.twitch.tv/miriamgonp)          | [![linkedin]](https://www.linkedin.com/in/miriamgonp/)  | ![es]
