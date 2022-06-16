@@ -14,8 +14,9 @@
 5. [DevOps](#devops)
 6. [Hacking/Seguridad informática](#hacking)
 7. [SEO](#seo)
-8. [UX/UI](#ux)
-9. [Web performance](#performance)
+8. [Testing](#testing)
+9. [UX/UI](#ux)
+10. [Web performance](#performance)
 
 # Accesibilidad <a name="accesibilidad"></a>
 
@@ -103,6 +104,12 @@
 | -------------------- | ------------------------------------------- | ------- | ------ | -------- |
 | Estela Franco        | [![twitter]](https://twitter.com/guaca)     |         |        |          |
 | Javier Martínez Seco | [![twitter]](https://twitter.com/JavierMrt) |         |        |          |
+
+# Testing <a name="testing"></a>
+
+| Nombre              | Twitter                                           | Youtube                                                                | Twitch                                              | Linkedin                                                |
+| ------------------- | ------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
+| CharlyAutomatiza    | [![twitter]](https://twitter.com/char_automatiza) | [![youtube]](https://www.youtube.com/channel/UCwEb6xrQtQCEuN_gNgi_Xfg) | [![twitch]](https://www.twitch.tv/charlyautomatiza) | [![linkedin]](https://www.linkedin.com/in/gautocarlos/) |
 
 # UX/ UI <a name="ux"></a>
 
