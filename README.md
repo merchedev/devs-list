@@ -13,10 +13,11 @@
 4. [Desarrollo de videojuegos](#videojuegos)
 5. [DevOps](#devops)
 6. [Hacking/Seguridad informática](#hacking)
-7. [SEO](#seo)
-8. [Testing](#testing)
-9. [UX/UI](#ux)
-10. [Web performance](#performance)
+7  [Inteligencia Artificial](#ia)
+8. [SEO](#seo)
+9. [Testing](#testing)
+10. [UX/UI](#ux)
+11. [Web performance](#performance)
 
 # Accesibilidad <a name="accesibilidad"></a>
 
@@ -37,7 +38,7 @@
 
 | Nombre         | Twitter                                        | Youtube                                            | Twitch | Linkedin |
 |----------------|------------------------------------------------|----------------------------------------------------|--------| -------- |
-| Hector de Leon | [![twitter]](https://twitter.com/powerhdeleon) | [![youtube]](https://www.youtube.com/c/hdeleonnet) |        |          |
+| Héctor de León | [![twitter]](https://twitter.com/powerhdeleon) | [![youtube]](https://www.youtube.com/c/hdeleonnet) |        |          |
 
 # Desarrollo Web/Front End (General) <a name="frontend"></a>
 
@@ -69,6 +70,7 @@
 | Midudev                 | [![twitter]](https://twitter.com/midudev)         | [![youtube]](https://www.youtube.com/c/midudev)                         | [![twitch]](https://www.twitch.tv/midudev)               |                                                                        |
 | Miriam González         | [![twitter]](https://twitter.com/miriamgonp)      |                                                                         | [![twitch]](https://www.twitch.tv/miriamgonp)            | [![linkedin]](https://www.linkedin.com/in/miriamgonp/)                 |
 | Neryad                  | [![twitter]](https://twitter.com/NeryadG)         | [![youtube]](https://www.youtube.com/channel/UC3s_1wVc_rzBgbmmW2w_FAw)  | [![twitch]](https://www.twitch.tv/neryad)                |                                                                        |
+| Pablo Sirera            | [![twitter]](https://twitter.com/pablosirera)     | [![youtube]](https://www.youtube.com/user/psirera4)                     | [![twitch]](https://www.twitch.tv/pablosirera)           |                                                                        |
 | PadawansTrainer         |                                                   | [![youtube]](https://youtube.com/grodriguezDW)                          | [![twitch]](https://www.twitch.tv/padawanstrainer)       |                                                                        |
 | Programación en Español | [![twitter]](https://twitter.com/prog_es)         | [![youtube]](https://www.youtube.com/c/Programaci%C3%B3nenespa%C3%B1ol) | [![twitch]](https://www.twitch.tv/programacion_en_esp)   | [![linkedin]](https://www.linkedin.com/in/pedroplasencia/)             |
 | Sara Lissette           | [![twitter]](https://twitter.com/LissetteIbnz)    |                                                                         |                                                          | [![linkedin]](https://www.linkedin.com/in/lissetteibnz)                |
@@ -79,13 +81,14 @@
 
 # Desarrollo de videojuegos <a name="videojuegos"></a>
 
-| Nombre        | Twitter                                        | Youtube                                                                 | Twitch                                          | Linkedin | 
-| ------------- | ---------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------- | -------- |
-| Alva Majo     | [![twitter]](https://twitter.com/5ro4)         | [![youtube]](https://www.youtube.com/user/5ro4)                         | [![twitch]](https://www.twitch.tv/5ro4)         |          |
-| Gius Caminiti | [![twitter]](https://twitter.com/GiusCaminiti) | [![youtube]](https://www.youtube.com/channel/UCDwxoXM_3vaXxXzZylJQJHg/) | [![twitch]](https://www.twitch.tv/giuscaminiti) |          |
-| Guinxu        | [![twitter]](https://twitter.com/guinxu)       | [![youtube]](https://youtube.com/c/guinxu)                              | [![twitch]](https://www.twitch.tv/guinxu)       |          |
-| Rafa Lagoon   | [![twitter]](http://twitter.com/rafalagoon)    | [![youtube]](http://youtube.com/rafalagoon)                             | [![twitch]](https://www.twitch.tv/rafalagoon)   |          |
-| RothioTome    | [![twitter]](https://twitter.com/RothioTome)   |                                                                         | [![twitch]](https://www.twitch.tv/rothiotome)   |          |
+| Nombre           | Twitter                                        | Youtube                                                                 | Twitch                                          | Linkedin                                                          | 
+| ---------------- | ---------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------------------- |
+| Alva Majo        | [![twitter]](https://twitter.com/5ro4)         | [![youtube]](https://www.youtube.com/user/5ro4)                         | [![twitch]](https://www.twitch.tv/5ro4)         |                                                                   |
+| Desiré M Carmona | [![twitter]](https://twitter.com/helleworld_)  | [![youtube]](https://www.youtube.com/channel/UCjKXiQauEZBw-oLPiw--vgg)  | [![twitch]](https://www.twitch.tv/helle_world)  | [![linkedin]](https://www.linkedin.com/in/desir%C3%A9-m-carmona/) |
+| Gius Caminiti    | [![twitter]](https://twitter.com/GiusCaminiti) | [![youtube]](https://www.youtube.com/channel/UCDwxoXM_3vaXxXzZylJQJHg/) | [![twitch]](https://www.twitch.tv/giuscaminiti) |                                                                   |
+| Guinxu           | [![twitter]](https://twitter.com/guinxu)       | [![youtube]](https://youtube.com/c/guinxu)                              | [![twitch]](https://www.twitch.tv/guinxu)       |                                                                   |
+| Rafa Lagoon      | [![twitter]](http://twitter.com/rafalagoon)    | [![youtube]](http://youtube.com/rafalagoon)                             | [![twitch]](https://www.twitch.tv/rafalagoon)   |                                                                   |
+| RothioTome       | [![twitter]](https://twitter.com/RothioTome)   |                                                                         | [![twitch]](https://www.twitch.tv/rothiotome)   |                                                                   |
 
 # DevOps e Infra <a name="devops"></a>
 
@@ -98,6 +101,11 @@
 | Nombre   | Twitter                                   | Youtube                                   | Twitch                                      | Linkedin                                           |
 | -------- | ----------------------------------------- | ----------------------------------------- | ------------------------------------------- | -------------------------------------------------- |
 | S4vitaar | [![twitter]](https://twitter.com/s4vitar) | [![youtube]](https://youtube.com/s4vitar) | [![twitch]](https://www.twitch.tv/s4vitaar) | [![linkedin]](https://www.linkedin.com/in/s4vitar) |
+
+# Inteligencia Artificial <a name="ia"></a>
+| Nombre     | Twitter                                         | Youtube                                   | Twitch                                      | Linkedin                                           |
+| ---------- | ----------------------------------------------- | ----------------------------------------- | ------------------------------------------- | -------------------------------------------------- |
+| Nerea Luis | [![twitter]](https://twitter.com/sailormerqury) |                                           |                                             | [![linkedin]](https://www.linkedin.com/in/nerealuis/) |
 
 # SEO <a name="seo"></a>
 
