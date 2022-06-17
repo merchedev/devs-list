@@ -98,6 +98,9 @@
 | Nombre   | Twitter                                   | Youtube                                   | Twitch                                      | Linkedin                                           |
 | -------- | ----------------------------------------- | ----------------------------------------- | ------------------------------------------- | -------------------------------------------------- |
 | S4vitaar | [![twitter]](https://twitter.com/s4vitar) | [![youtube]](https://youtube.com/s4vitar) | [![twitch]](https://www.twitch.tv/s4vitaar) | [![linkedin]](https://www.linkedin.com/in/s4vitar) |
+| Snifer | [![twitter]](https://twitter.com/sniferl4bs) | [![youtube]](https://www.youtube.com/c/SniferL4bs) |                                   |         |
+
+
 
 # SEO <a name="seo"></a>
 
