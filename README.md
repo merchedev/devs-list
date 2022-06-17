@@ -13,7 +13,7 @@
 4. [Desarrollo de videojuegos](#videojuegos)
 5. [DevOps](#devops)
 6. [Hacking/Seguridad informática](#hacking)
-7  [Inteligencia Artificial](#ia)
+7. [Inteligencia Artificial](#ia)
 8. [SEO](#seo)
 9. [Testing](#testing)
 10. [UX/UI](#ux)
