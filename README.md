@@ -7,6 +7,7 @@
 > Sientete libre de aportar, corregir y mejorar 😊
 
 **Índice**
+
 1. [Accesibilidad](#accesibilidad)
 2. [Backend](#backend)
 3. [Desarrollo Web/Frontend](#frontend)
@@ -15,7 +16,7 @@
 6. [Hacking/Seguridad informática](#hacking)
 7. [Inteligencia Artificial](#ia)
 8. [SEO](#seo)
-9. [Testing](#testing)
+9. [Quality Assurance](#qa)
 10. [UX/UI](#ux)
 11. [Web performance](#performance)
 
@@ -114,11 +115,15 @@
 | Estela Franco        | [![twitter]](https://twitter.com/guaca)     |         |        |          |
 | Javier Martínez Seco | [![twitter]](https://twitter.com/JavierMrt) |         |        |          |
 
-# Testing <a name="testing"></a>
+# Quality Assurance <a name="qa"></a>
 
 | Nombre              | Twitter                                           | Youtube                                                                | Twitch                                              | Linkedin                                                |
 | ------------------- | ------------------------------------------------- | ---------------------------------------------------------------------- | --------------------------------------------------- | ------------------------------------------------------- |
-| CharlyAutomatiza    | [![twitter]](https://twitter.com/char_automatiza) | [![youtube]](https://www.youtube.com/channel/UCwEb6xrQtQCEuN_gNgi_Xfg) | [![twitch]](https://www.twitch.tv/charlyautomatiza) | [![linkedin]](https://www.linkedin.com/in/gautocarlos/) |
+| CharlyAutomatiza    | [![twitter]](https://twitter.com/char_automatiza) | [![youtube]](https://www.youtube.com/c/CharlyAutomatiza) | [![twitch]](https://www.twitch.tv/charlyautomatiza) | [![linkedin]](https://www.linkedin.com/in/gautocarlos/) |
+| Free Range Tester    | [![twitter]](https://twitter.com/RangeTester) | [![youtube]](https://www.youtube.com/c/TheFreeRangeTester) |  | [![linkedin]](https://www.linkedin.com/in/patricio-m-690b3729) |
+| JoanMedia ES    | [![twitter]](https://twitter.com/joanmediaes) | [![youtube]](https://www.youtube.com/channel/UC46Yt3QNDiA1rK60E2Y_YnQ) |  | |
+| Pablo Soifer    | [![twitter]](https://twitter.com/PabloSoifer1) | [![youtube]](https://www.youtube.com/user/Draculinio) |   | [![linkedin]](https://www.linkedin.com/in/pablo-soifer-9a087322) |
+| Saitest    |  | [![youtube]](https://www.youtube.com/c/Saitest) |   | [![linkedin]](https://www.linkedin.com/in/elyermad) |
 
 # UX/ UI <a name="ux"></a>
 
@@ -132,9 +137,6 @@
 | Nombre    | Twitter                                    | Youtube                                          | Twitch                                      | Linkedin |
 | --------- | ------------------------------------------ | ------------------------------------------------ | ------------------------------------------- | -------- |
 | Joan León | [![twitter]](https://twitter.com/nucliweb) | [![youtube]](https://www.youtube.com/c/JoanLeon) | [![twitch]](https://www.twitch.tv/nucliweb) |          |
-
-
-
 
 [twitter]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/twitter_icon-icons.com_66688.png?alt=media&token=f413e76a-08d4-4259-92e9-d1fa41d62ecd "Twitter"
 [youtube]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/1491580651-yumminkysocialmedia28_83061.png?alt=media&token=3cfbf587-9d88-4c55-ac42-3b0b32c6578f "Youtube"
