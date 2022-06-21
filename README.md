@@ -110,6 +110,7 @@
 | Nombre     | Twitter                                         | Youtube                                   | Twitch                                      | Linkedin                                           |
 | ---------- | ----------------------------------------------- | ----------------------------------------- | ------------------------------------------- | -------------------------------------------------- |
 | Nerea Luis | [![twitter]](https://twitter.com/sailormerqury) |                                           |                                             | [![linkedin]](https://www.linkedin.com/in/nerealuis/) |
+| Carlos Santana Vega | [![twitter]](https://twitter.com/dotcsv?s=21) | [![youtube]](https://www.youtube.com/c/DotCSV) | [![twitch]](https://www.twitch.tv/dotcsv) | [![linkedin]](https://www.linkedin.com/company/dotcsv-inteligencia-artificial/) |
 
 # SEO <a name="seo"></a>
 
