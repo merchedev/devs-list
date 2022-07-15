@@ -99,10 +99,11 @@
 
 # Hacking / Seguridad informática <a name="hacking"></a>
 
-| Nombre   | Twitter                                      | Youtube                                            | Twitch                                      | Linkedin                                           | Github                                                         | Website/Blog/Landing RRSS                              |
-| -------- | -------------------------------------------- | -------------------------------------------------- | ------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------ |
-| S4vitaar | [![twitter]](https://twitter.com/s4vitar)    | [![youtube]](https://youtube.com/s4vitar)          | [![twitch]](https://www.twitch.tv/s4vitaar) | [![linkedin]](https://www.linkedin.com/in/s4vitar) |                                                                |                                                        |
-| Snifer   | [![twitter]](https://twitter.com/sniferl4bs) | [![youtube]](https://www.youtube.com/c/SniferL4bs) |                                             |                                                    | [![github]](https://github.com/snifer)                         | [![web]](https://sniferl4bs.com/)                      |
+| Nombre     | Twitter                                      | Youtube                                            | Twitch                                        | Linkedin                                           | Github                                                         | Website/Blog/Landing RRSS                              |
+| ---------- | -------------------------------------------- | -------------------------------------------------- | --------------------------------------------- | -------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------ |
+| S4vitaar   | [![twitter]](https://twitter.com/s4vitar)    | [![youtube]](https://youtube.com/s4vitar)          | [![twitch]](https://www.twitch.tv/s4vitaar)   | [![linkedin]](https://www.linkedin.com/in/s4vitar) |                                                                |                                                        |
+| Securiters | [![twitter]](https://twitter.com/securiters) | [![youtube]](https://youtube.com/securiters)       | [![twitch]](https://www.twitch.tv/securiters) |                                                    |                                                                |                                                        |
+| Snifer     | [![twitter]](https://twitter.com/sniferl4bs) | [![youtube]](https://www.youtube.com/c/SniferL4bs) |                                               |                                                    | [![github]](https://github.com/snifer)                         | [![web]](https://sniferl4bs.com/)                      |
 
 
 
