@@ -102,9 +102,9 @@
 
 # DevOps e Infra <a name="devops"></a>
 
-| Nombre      | Twitter                                    | Youtube                                            | Twitch | Linkedin | Github                                                         | Website/Blog/Landing RRSS                              |
-|-------------|--------------------------------------------|----------------------------------------------------|--------| -------- | -------------------------------------------------------------- | ------------------------------------------------------ |
-| Pelado Nerd | [![twitter]](https://twitter.com/pablokbs) | [![youtube]](https://www.youtube.com/c/PeladoNerd) |        |          | [![github]](https://github.com/pablokbs)                       | [![web]](https://peladonerd.com/)                      |
+| Nombre      | Twitter                                    | Youtube                                            | Twitch | Linkedin                                                                  | Github                                                         | Website/Blog/Landing RRSS                              |
+|-------------|--------------------------------------------|----------------------------------------------------|--------| ------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------ |
+| Pelado Nerd | [![twitter]](https://twitter.com/pablokbs) | [![youtube]](https://www.youtube.com/c/PeladoNerd) |        | [![linkedin]](https://www.linkedin.com/in/pablofredrikson/)               | [![github]](https://github.com/pablokbs)                       | [![web]](https://peladonerd.com/)                      |
 
 # Hacking / Seguridad informática <a name="hacking"></a>
 
