@@ -37,9 +37,10 @@
 
 # Backend <a name="backend"></a>
 
-| Nombre         | Twitter                                        | Youtube                                            | Twitch | Linkedin | Github | Website/Blog                                      |
-| -------------- | ---------------------------------------------- | -------------------------------------------------- | ------ | -------- | ------ | ------------------------------------------------- |
-| Héctor de León | [![twitter]](https://twitter.com/powerhdeleon) | [![youtube]](https://www.youtube.com/c/hdeleonnet) |        |          |        | [![web]](https://hdeleon.net/)                    |
+| Nombre         | Twitter                                        | Youtube                                            | Twitch | Linkedin | Github | Instagram | Website/Blog                                      |
+| -------------- | ---------------------------------------------- | -------------------------------------------------- | ------ | -------- | ------ | ------ | ------------------------------------------------- |
+| Héctor de León | [![twitter]](https://twitter.com/powerhdeleon) | [![youtube]](https://www.youtube.com/c/hdeleonnet) |        |          |        |          |  [![web]](https://hdeleon.net/)                    |
+| art0xdev |  | [![youtube]](https://www.youtube.com/@art0xdev) |        |          |          |    [![instagram]](https://www.instagram.com/art0xdev/)   | [![web]](https://www.art0x.dev/)                    |
 
 # Desarrollo Web/Front End (General) <a name="frontend"></a>
 
