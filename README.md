@@ -154,9 +154,10 @@
 | --------- | ------------------------------------------ | ------------------------------------------------ | ------------------------------------------- | -------- | -------------------------------------------------------------- | ------------------------------------------------------ |
 | Joan León | [![twitter]](https://twitter.com/nucliweb) | [![youtube]](https://www.youtube.com/c/JoanLeon) | [![twitch]](https://www.twitch.tv/nucliweb) |          | [![github]](https://github.com/nucliweb)                       | [![web]](https://joanleon.dev/)                        |
 
-[twitter]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/twitter_icon-icons.com_66688.png?alt=media&token=f413e76a-08d4-4259-92e9-d1fa41d62ecd "Twitter"
-[youtube]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/1491580651-yumminkysocialmedia28_83061.png?alt=media&token=3cfbf587-9d88-4c55-ac42-3b0b32c6578f "Youtube"
-[twitch]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/twitch_icon_146123.png?alt=media&token=a1bd09c2-22ae-4b18-93de-55fe2aaab7f3 "Twitch"
-[linkedin]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/linkedin_icon-icons.com_65929.png?alt=media&token=5bdf302c-6710-4460-93b2-8221dec7e344 "Linkedin"
-[github]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/Github_icon-icons.com_66788.png?alt=media&token=217a6801-50de-4c06-9349-47a8fe3f0c24 "Github"
-[web]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/emblemweb_93503.png?alt=media&token=ee5df6e3-35fe-49be-a3d0-f4ce621d18a0 "Web"
+[twitter]: logos/twitter_icon-icons.com_66688.png "Twitter"
+[youtube]: logos/1491580651-yumminkysocialmedia28_83061.png "Youtube"
+[instagram]: logos/instagram.png "instagram"
+[twitch]: logos/twitch_icon_146123.png "Twitch"
+[linkedin]: logos/linkedin_icon-icons.com_65929.png "Linkedin"
+[github]: logos/Github_icon-icons.com_66788.png "Github"
+[web]: logos/emblemweb_93503.png "Web"
