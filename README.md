@@ -22,24 +22,26 @@
 
 # Accesibilidad <a name="accesibilidad"></a>
 
-| Nombre               | Twitter                                           | Youtube                                                     | Twitch | Linkedin                                                                   | Github                                     | Website/Blog/Landing RRS                          |
-| -------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------------- |
-| Adrián Bolonio       | [![twitter]](https://twitter.com/bolonio)         |                                                             |        | [![linkedin]](https://www.linkedin.com/in/adrianbolonio/)                  | [![github]](https://github.com/bolonio)    | [![web]](https://www.adrianbolonio.com/)          |
-| Alberto Pedrero      | [![twitter]](https://twitter.com/apedreroes)      |                                                             |        |                                                                            |                                            | [![web]](https://albertopedrero.es/)              |
-| Alena Nikolaeva      | [![twitter]](https://twitter.com/alenanik11)      |                                                             |        | [![linkedin]](https://www.linkedin.com/in/alenanikolaeva/)                 |                                            | [![web]](https://www.alena-nikolaeva.com/)        |
-| Jordi Turull         | [![twitter]](https://twitter.com/iXorx)           |                                                             |        | [![linkedin]](https://www.linkedin.com/in/jorditurull/)                    |                                            |                                                   |
-| José Manuel Delicado | [![twitter]](https://twitter.com/jmdaweb)         |                                                             |        |                                                                            |                                            |                                                   |
-| Juanjo (kastwey)     | [![twitter]](https://twitter.com/kastwey)         |                                                             |        |                                                                            |                                            | [![web]](https://accessibites.net/)               |
-| Olga Carreras        | [![twitter]](https://twitter.com/olgacarreras)    | [![youtube]](https://www.youtube.com/user/UsableyAccesible) |        | [![linkedin]](https://www.linkedin.com/in/olgacarreras/)                   |                                            | [![web]](https://olgacarreras.blogspot.com/)      |
-| Sara Rodríguez       | [![twitter]](https://twitter.com/sara_irc)        |                                                             |        | [![linkedin]](https://www.linkedin.com/in/sararodriguezcontreras/)         |                                            | [![web]](https://www.sararodriguezcontreras.com/) |
-| Sergio Luján Mora    | [![twitter]](https://twitter.com/sergiolujanmora) |                                                             |        |                                                                            |                                            | [![web]](https://sergiolujanmora.es/)             |
-| Vicent Sanchis       | [![twitter]](https://twitter.com/visanju)         |                                                             |        | [![linkedin]](https://www.linkedin.com/in/vicent-sanchis-jurado-151b9142/) |                                            | [![web]](https://vicentsanchis.com/)              |
+| Nombre               | Twitter                                           | Youtube                                                     | Twitch | Linkedin                                                                   | Github                                     |Instagram | Website/Blog/Landing RRS                          |
+| -------------------- | ------------------------------------------------- | ----------------------------------------------------------- | ------ | -------------------------------------------------------------------------- | ------------------------------------------ |------------------------------------------ | ------------------------------------------------- |
+| Adrián Bolonio       | [![twitter]](https://twitter.com/bolonio)         |                                                             |        | [![linkedin]](https://www.linkedin.com/in/adrianbolonio/)                  | [![github]](https://github.com/bolonio)    |        | [![web]](https://www.adrianbolonio.com/)          |
+| Alberto Pedrero      | [![twitter]](https://twitter.com/apedreroes)      |                                                             |        |                                                                            |                                            |         |[![web]](https://albertopedrero.es/)              |
+| Alena Nikolaeva      | [![twitter]](https://twitter.com/alenanik11)      |                                                             |        | [![linkedin]](https://www.linkedin.com/in/alenanikolaeva/)                 |                                                    |                   | [![web]](https://www.alena-nikolaeva.com/)        |
+| Jordi Turull         | [![twitter]](https://twitter.com/iXorx)           |                                                             |        | [![linkedin]](https://www.linkedin.com/in/jorditurull/)                    |                                            |          |                                                 |
+| José Manuel Delicado | [![twitter]](https://twitter.com/jmdaweb)         |           |                                                          |        |                                                                            |                                            |                                                   |
+| Juanjo (kastwey)     | [![twitter]](https://twitter.com/kastwey)         |            |                                                         |        |                                                                            |                                            | [![web]](https://accessibites.net/)               |
+| Olga Carreras        | [![twitter]](https://twitter.com/olgacarreras)    | [![youtube]](https://www.youtube.com/user/UsableyAccesible) |        | [![linkedin]](https://www.linkedin.com/in/olgacarreras/)                   |            | [![instagram]](https://www.instagram.com/olgacarrerasmontoto/)| [![web]](https://olgacarreras.blogspot.com/)      |
+| Sara Rodríguez       | [![twitter]](https://twitter.com/sara_irc)        |                                                             |        | [![linkedin]](https://www.linkedin.com/in/sararodriguezcontreras/)         |         |                                           | [![web]](https://www.sararodriguezcontreras.com/) |
+| Sergio Luján Mora    | [![twitter]](https://twitter.com/sergiolujanmora) |                                                             |        |                                                                            |                                            |        | [![web]](https://sergiolujanmora.es/)             |
+| Vicent Sanchis       | [![twitter]](https://twitter.com/visanju)         |                                                             |        | [![linkedin]](https://www.linkedin.com/in/vicent-sanchis-jurado-151b9142/) |                                                   | | [![web]](https://vicentsanchis.com/)              |
 
 # Backend <a name="backend"></a>
 
-| Nombre         | Twitter                                        | Youtube                                            | Twitch | Linkedin | Github | Website/Blog                                      |
-| -------------- | ---------------------------------------------- | -------------------------------------------------- | ------ | -------- | ------ | ------------------------------------------------- |
-| Héctor de León | [![twitter]](https://twitter.com/powerhdeleon) | [![youtube]](https://www.youtube.com/c/hdeleonnet) |        |          |        | [![web]](https://hdeleon.net/)                    |
+| Nombre         | Twitter                                        | Youtube                                            | Twitch | Linkedin | Github | Instagram | Website/Blog                                      |
+| -------------- | ---------------------------------------------- | -------------------------------------------------- | ------ | -------- | ------ | ------ | ------------------------------------------------- |
+| Art0xdev |  | [![youtube]](https://www.youtube.com/@art0xdev) |        |          |          |    [![instagram]](https://www.instagram.com/art0xdev/)   | [![web]](https://www.art0x.dev/)                    |
+| Héctor de León | [![twitter]](https://twitter.com/powerhdeleon) | [![youtube]](https://www.youtube.com/c/hdeleonnet) |        |          |        |          |  [![web]](https://hdeleon.net/)                    |
+
 
 # Desarrollo Web/Front End (General) <a name="frontend"></a>
 
@@ -154,9 +156,10 @@
 | --------- | ------------------------------------------ | ------------------------------------------------ | ------------------------------------------- | -------- | -------------------------------------------------------------- | ------------------------------------------------------ |
 | Joan León | [![twitter]](https://twitter.com/nucliweb) | [![youtube]](https://www.youtube.com/c/JoanLeon) | [![twitch]](https://www.twitch.tv/nucliweb) |          | [![github]](https://github.com/nucliweb)                       | [![web]](https://joanleon.dev/)                        |
 
-[twitter]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/twitter_icon-icons.com_66688.png?alt=media&token=f413e76a-08d4-4259-92e9-d1fa41d62ecd "Twitter"
-[youtube]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/1491580651-yumminkysocialmedia28_83061.png?alt=media&token=3cfbf587-9d88-4c55-ac42-3b0b32c6578f "Youtube"
-[twitch]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/twitch_icon_146123.png?alt=media&token=a1bd09c2-22ae-4b18-93de-55fe2aaab7f3 "Twitch"
-[linkedin]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/linkedin_icon-icons.com_65929.png?alt=media&token=5bdf302c-6710-4460-93b2-8221dec7e344 "Linkedin"
-[github]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/Github_icon-icons.com_66788.png?alt=media&token=217a6801-50de-4c06-9349-47a8fe3f0c24 "Github"
-[web]: https://firebasestorage.googleapis.com/v0/b/dev-com-cdc48.appspot.com/o/emblemweb_93503.png?alt=media&token=ee5df6e3-35fe-49be-a3d0-f4ce621d18a0 "Web"
+[twitter]: logos/twitter_icon-icons.com_66688.png "Twitter"
+[youtube]: logos/1491580651-yumminkysocialmedia28_83061.png "Youtube"
+[instagram]: logos/instagram.png "instagram"
+[twitch]: logos/twitch_icon_146123.png "Twitch"
+[linkedin]: logos/linkedin_icon-icons.com_65929.png "Linkedin"
+[github]: logos/Github_icon-icons.com_66788.png "Github"
+[web]: logos/emblemweb_93503.png "Web"
